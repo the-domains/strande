@@ -1,0 +1,14 @@
+layout_spectrum: 0.9256546
+color:
+  saturation: 0.009062218
+  brandStrength: 0.281362
+  lightness: 0.0005009086
+  rhythmicContrast: 0.956154
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.5973545
+name: Strande
